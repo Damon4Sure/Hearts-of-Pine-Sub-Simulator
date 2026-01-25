@@ -2,7 +2,7 @@
 **Predictive Performance Optimization via Base44 Logic**
 
 ## 🎯 Project Overview
-This project applies predictive analytics to professional soccer (USL League One) to solve a critical coaching challenge: **When is the optimal time to substitute a starter?** Using historical performance data from the Portland Hearts of Pine, I developed a simulator designed to predict the "Performance Decay Point" for individual players based on match-day variables.
+This project applies predictive analytics to professional soccer (USL League One) to solve a critical coaching challenge: **When is the optimal time to substitute a starter?** Using historical performance data from the Portland Hearts of Pine inaugural season, I developed a simulator designed to predict the "Performance Decay Point" for individual players based on match-day variables.
 
 ## 📊 How it Works
 The simulator uses **Base44** logic to process historical player metrics and simulate match-day fatigue. By analyzing key performance indicators, the model identifies:

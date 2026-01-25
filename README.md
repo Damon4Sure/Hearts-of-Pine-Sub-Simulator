@@ -30,4 +30,7 @@ I utilized **Base44** for this simulator to prioritize **speed and portability**
 ---
 
 ## 🗂️ Project Context
-This was developed as a "just for fun" exploration of how predictive principles used in business analytics (such as lead propensity modeling) can be translated into the world of professional sports performance.
+This project was a "just for fun" test—as a dedicated Hearts of Pine fan—to explore sports data and experiment with **Base44** logic. 
+
+**Current Status:** * **Experimental Phase:** This is a conceptual prototype. More historical data and rigorous testing are needed to reach production-level reliability.
+* **Future Potential:** Possible implications include integrating real-time data from player health-tracking wearables (IoT) worn during matches to provide live, data-backed insights for injury prevention and stamina management.

